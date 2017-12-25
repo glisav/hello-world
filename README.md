@@ -1,4 +1,4 @@
 # hello-world
 
    HI Humans!!!
-Un quhem Glisav Katroshi dhe jam studen i IT.
+Un quhem Glisav Katroshi dhe jam student i IT.
